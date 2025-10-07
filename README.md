@@ -55,16 +55,13 @@ burger-joint-automation/
 │ └── failure.png
 │ └── ExtentReport.html
 
-yaml
-Copy code
 
----
 
 ## 🚀 How to Run
 
 1. **Clone the repository**:
 
-```bash
+
 git clone https://github.com/yourusername/burger-joint-automation.git
 cd burger-joint-automation
 Run the test:
